@@ -8,7 +8,7 @@ describe('Arithmetic', function() {
               done();
           });
 
-      cout<<a+b<< endl;
+     this is my computer
 
       
     });
